@@ -1,4 +1,4 @@
-module test(a,b,c);
+module test1(a,b,c);
 input a,b;
 output c;
 
